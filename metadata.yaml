@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37508
     wikipedia: http://en.wikipedia.org/wiki/A._P._Herbert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35164#The-Secret-Battle
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2011-02-04'
 gutenberg_type: Text
