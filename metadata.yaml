@@ -1,0 +1,30 @@
+_repo: The-Secret-Battle_35164
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35164-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Herbert, A. P. (Alan Patrick)
+    alias: Herbert, Alan Patrick, Sir
+    birthdate: 1890
+    deathdate: 1971
+    gutenberg_agent_id: '37508'
+    url: http://www.gutenberg.org/2009/agents/37508
+    wikipedia: http://en.wikipedia.org/wiki/A._P._Herbert
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2011-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35164'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'War stories'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+title: The Secret Battle
+url: http://www.gutenberg.org/ebooks/35164
